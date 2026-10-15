@@ -1,0 +1,6 @@
+{
+  "name": "Smart Student Attendance Management System",
+  "description": "Role-based attendance tracking platform for students, faculty, and administrators with Supabase PostgreSQL, real-time analytics, and automated compliance warnings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
